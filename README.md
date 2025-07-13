@@ -5,7 +5,7 @@ Q Chess: The Archer's Gambit - Official Rulebook
 ▶️ Play the Game Live!
 You can play the latest version of this game, complete with an AI opponent, right here in your browser:
 
-https://hhjpzhao.github.io/Happy-Flip-Chess/
+[https://hhjpzhao.github.io/Q-Chess-The-Archer-s-Gambit/](https://hhjpzhao.github.io/Q-Chess-The-Archer-s-Gambit/)
 
 🎯 Object of the Game
 The goal of Q Chess: The Archer's Gambit is to win by placing your opponent's General in checkmate. This is a game of traditional strategy, enhanced with the long-range threat of the new Archer piece.
